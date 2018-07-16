@@ -1,0 +1,6 @@
+
+Sequences
+
+Handbook of Integer Sequences - Sloan (Lists many sequences)
+Handbook of Mathematical Functions, edited by Abramowitz and Stegun
+CRC Standard Mathematical Tables
