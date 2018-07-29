@@ -1,6 +1,13 @@
 
+Reading list:
+[Intersection of linear algebra/probability, main focus on probability]
+http://www.math.harvard.edu/~knill/teaching/math19b_2011/handouts/chapters1-19.pdf
+
 Sequences
 
 Handbook of Integer Sequences - Sloan (Lists many sequences)
 Handbook of Mathematical Functions, edited by Abramowitz and Stegun
 CRC Standard Mathematical Tables
+
+
+
